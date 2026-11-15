@@ -1,0 +1,28 @@
+DAY 6 - EMAIL SECURITY DEFENCE GUIDE
+
+Name: Christian Adam Anilbhai
+
+1. SPF
+- Authorizes approved email-sending servers.
+- Helps detect unauthorized senders.
+
+2. DKIM
+- Uses digital signatures for email authentication.
+- Helps verify message integrity.
+
+3. DMARC
+- Defines how receivers handle failed authentication.
+- Provides reports about authentication results.
+
+4. RECOMMENDATIONS
+- Configure SPF for authorized senders.
+- Enable DKIM signing.
+- Start DMARC with monitoring.
+- Review DMARC reports.
+- Move toward quarantine or reject after
+  validating legitimate email sources.
+
+5. CONCLUSION
+SPF, DKIM and DMARC help organizations
+protect their domains against email spoofing
+and improve email authentication.

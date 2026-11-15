@@ -1,0 +1,122 @@
+
+==================================================
+       SECURITY AWARENESS SIMULATION
+==================================================
+
+Simulation only — NOT FOR DELIVERY
+
+From (simulated):
+[Training IT Security] <training@example.test>
+
+To:
+riya@example.test
+
+Subject:
+Security Awareness Exercise - Sqrock Training
+
+Scenario:
+IT account security awareness
+
+Hello Riya Sharma,
+
+This is a fictional security-awareness exercise
+for Sqrock Training.
+
+Context:
+This training example refers to a scheduled security-awareness exercise.
+
+Training link:
+https://awareness.example.invalid/test
+
+Please do not enter credentials or personal
+information. This link is a non-functional
+reserved test address.
+
+Regards,
+Security Awareness Training Team
+
+--------------------------------------------------
+Personalization hook: a scheduled security-awareness exercise
+--------------------------------------------------
+
+
+==================================================
+       SECURITY AWARENESS SIMULATION
+==================================================
+
+Simulation only — NOT FOR DELIVERY
+
+From (simulated):
+[Training IT Security] <training@example.test>
+
+To:
+arjun@example.test
+
+Subject:
+Security Awareness Exercise - Example Finance
+
+Scenario:
+Finance department awareness
+
+Hello Arjun Patel,
+
+This is a fictional security-awareness exercise
+for Example Finance.
+
+Context:
+This training example refers to a fictional invoice review exercise.
+
+Training link:
+https://awareness.example.invalid/test
+
+Please do not enter credentials or personal
+information. This link is a non-functional
+reserved test address.
+
+Regards,
+Security Awareness Training Team
+
+--------------------------------------------------
+Personalization hook: a fictional invoice review exercise
+--------------------------------------------------
+
+
+==================================================
+       SECURITY AWARENESS SIMULATION
+==================================================
+
+Simulation only — NOT FOR DELIVERY
+
+From (simulated):
+[Training IT Security] <training@example.test>
+
+To:
+neha@example.test
+
+Subject:
+Security Awareness Exercise - Example HR
+
+Scenario:
+HR security awareness
+
+Hello Neha Shah,
+
+This is a fictional security-awareness exercise
+for Example HR.
+
+Context:
+This training example refers to a simulated employee-policy update.
+
+Training link:
+https://awareness.example.invalid/test
+
+Please do not enter credentials or personal
+information. This link is a non-functional
+reserved test address.
+
+Regards,
+Security Awareness Training Team
+
+--------------------------------------------------
+Personalization hook: a simulated employee-policy update
+--------------------------------------------------
