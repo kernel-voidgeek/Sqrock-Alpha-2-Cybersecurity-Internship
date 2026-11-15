@@ -1,0 +1,80 @@
+{
+    "participant": "Christian Adam Anilbhai",
+    "date": "2026-11-15 11:38:06.397174",
+    "total_questions": 10,
+    "correct_answers": 10,
+    "incorrect_answers": 0,
+    "percentage": 100.0,
+    "results": [
+        {
+            "question_number": 1,
+            "your_answer": "B",
+            "correct_answer": "B",
+            "result": "Correct",
+            "explanation": "Never share passwords through email links. Verify independently."
+        },
+        {
+            "question_number": 2,
+            "your_answer": "B",
+            "correct_answer": "B",
+            "result": "Correct",
+            "explanation": "Unknown USB devices can be used for baiting attacks."
+        },
+        {
+            "question_number": 3,
+            "your_answer": "C",
+            "correct_answer": "C",
+            "result": "Correct",
+            "explanation": "Never share OTPs, even with someone claiming to be bank staff."
+        },
+        {
+            "question_number": 4,
+            "your_answer": "B",
+            "correct_answer": "B",
+            "result": "Correct",
+            "explanation": "Urgency and fear are common social engineering tactics."
+        },
+        {
+            "question_number": 5,
+            "your_answer": "B",
+            "correct_answer": "B",
+            "result": "Correct",
+            "explanation": "Confidential credentials must never be shared with unauthorized people."
+        },
+        {
+            "question_number": 6,
+            "your_answer": "B",
+            "correct_answer": "B",
+            "result": "Correct",
+            "explanation": "Unexpected attachments may contain malicious files."
+        },
+        {
+            "question_number": 7,
+            "your_answer": "B",
+            "correct_answer": "B",
+            "result": "Correct",
+            "explanation": "Tailgating is a physical social engineering technique."
+        },
+        {
+            "question_number": 8,
+            "your_answer": "B",
+            "correct_answer": "B",
+            "result": "Correct",
+            "explanation": "Verify unusual financial requests through a separate trusted channel."
+        },
+        {
+            "question_number": 9,
+            "your_answer": "C",
+            "correct_answer": "C",
+            "result": "Correct",
+            "explanation": "Fake technical support alerts often use fear to manipulate users."
+        },
+        {
+            "question_number": 10,
+            "your_answer": "B",
+            "correct_answer": "B",
+            "result": "Correct",
+            "explanation": "Prompt reporting helps security teams investigate and reduce damage."
+        }
+    ]
+}
