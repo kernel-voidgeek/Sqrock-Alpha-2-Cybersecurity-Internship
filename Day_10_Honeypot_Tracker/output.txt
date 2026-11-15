@@ -1,0 +1,22 @@
+
+DAY 10 - HONEYPOT TRACKER
+
+PROJECT: Local Honeypot Link Tracker
+
+Server: 127.0.0.1
+Port: 8080
+Test Path: /training-bait
+
+RESULTS:
+- Local HTTP server started successfully.
+- Training link accessed through browser.
+- Visitor IP address recorded.
+- Timestamp recorded.
+- Requested URL path recorded.
+- Browser User-Agent recorded.
+- Logs saved to honeypot_logs.json.
+
+STATUS: SIMULATION COMPLETED
+
+No external visitors were contacted.
+No data was transmitted to an external server.

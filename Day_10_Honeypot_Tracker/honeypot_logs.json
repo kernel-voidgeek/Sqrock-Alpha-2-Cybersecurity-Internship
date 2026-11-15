@@ -1,0 +1,14 @@
+[
+    {
+        "timestamp": "2026-11-14 11:20:22.536821",
+        "ip": "127.0.0.1",
+        "path": "/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.145.3 Chrome/150.0.7871.250 Electron/43.8.3 Safari/537.36"
+    },
+    {
+        "timestamp": "2026-11-14 11:20:22.715359",
+        "ip": "127.0.0.1",
+        "path": "/favicon.ico",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.145.3 Chrome/150.0.7871.250 Electron/43.8.3 Safari/537.36"
+    }
+]
