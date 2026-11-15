@@ -1,0 +1,39 @@
+DAY 5 - OSINT THREAT ANALYSIS
+
+Name: Christian Adam Anilbhai
+Target: kernel-voidgeek
+Platform: GitHub
+
+1. INFORMATION DISCOVERED
+
+- Public username: kernel-voidgeek
+- Public repositories: 1
+- Programming language: HTML
+- Public name: Adam
+
+2. POTENTIAL SECURITY RISKS
+
+- Public repositories may expose source code.
+- Accidentally committed credentials may be exposed.
+- Project details may reveal technology choices.
+
+3. POSSIBLE SOCIAL ENGINEERING RISKS
+
+Attackers could misuse publicly available project
+information to create convincing technical-support
+messages or impersonation attempts.
+
+4. RECOMMENDATIONS
+
+- Never upload passwords or API keys to GitHub.
+- Review repository visibility and permissions.
+- Use environment variables for secrets.
+- Enable two-factor authentication.
+- Review repositories for accidentally exposed data.
+
+5. CONCLUSION
+
+Public GitHub information can help security analysts
+understand an organization's digital footprint.
+However, public information should be assessed
+carefully and used responsibly.
