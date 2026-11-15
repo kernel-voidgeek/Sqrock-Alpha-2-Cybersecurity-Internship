@@ -1,0 +1,51 @@
+
+DAY 13 - SIEM LOG ANALYSIS
+
+Name: Christian Adam Anilbhai
+
+1. OBJECTIVE
+
+To develop a Python log parser that identifies
+suspicious activities related to social engineering.
+
+2. TECHNOLOGIES USED
+
+- Python
+- Regular Expressions (re)
+- Collections Counter
+- Datetime
+
+3. LOG ANALYSIS
+
+The program analyzes:
+- Failed login attempts
+- Successful login events
+- Suspicious email forwarding rules
+
+4. DETECTION RESULTS
+
+Total log entries: 5
+Failed login events: 2
+Suspicious email rules: 1
+Total alerts: 1
+
+5. SECURITY ALERT
+
+A suspicious email forwarding rule
+was created by the admin account.
+
+Rule: forward_all
+
+6. SECURITY RECOMMENDATIONS
+
+- Monitor repeated login failures.
+- Investigate unexpected email forwarding rules.
+- Enable multi-factor authentication.
+- Review account activity regularly.
+- Investigate unusual login times and locations.
+
+7. CONCLUSION
+
+The Python SIEM log analyzer successfully
+processed the sample security logs and
+identified a suspicious email forwarding rule.
