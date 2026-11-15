@@ -1,0 +1,6 @@
+timestamp: 2026-11-12 13:00:51.232995
+hostname: LAPTOPLOQ
+os: Windows
+version: 10.0.26300
+user: Adam
+cwd: C:\Users\Adam\OneDrive\Desktop\SQROCK_internship\Day_08_USB_Drop_Simulation
