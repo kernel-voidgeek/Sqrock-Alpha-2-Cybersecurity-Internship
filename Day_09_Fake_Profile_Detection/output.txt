@@ -1,0 +1,29 @@
+DAY 9 - FAKE PROFILE DETECTION
+
+[
+    {
+        "username": "user_001",
+        "score": 100,
+        "status": "HIGH RISK"
+    },
+    {
+        "username": "user_002",
+        "score": 0,
+        "status": "LOW RISK"
+    },
+    {
+        "username": "user_003",
+        "score": 80,
+        "status": "HIGH RISK"
+    },
+    {
+        "username": "user_004",
+        "score": 20,
+        "status": "LOW RISK"
+    },
+    {
+        "username": "user_005",
+        "score": 0,
+        "status": "LOW RISK"
+    }
+]
