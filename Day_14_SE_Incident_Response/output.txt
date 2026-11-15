@@ -1,0 +1,16 @@
+DAY 14 - INCIDENT RESPONSE SUMMARY
+
+Incident Type: phishing
+Severity: HIGH
+Affected User: riya@example.test
+
+Actions:
+- SIMULATE: Lock user account
+- SIMULATE: Revoke active sessions
+- Notify SOC team
+- Preserve email logs
+- SIMULATE: Quarantine suspicious email
+- SIMULATE: Block sender domain
+- Scan attachments in sandbox
+
+Status: SIMULATED RESPONSE COMPLETED

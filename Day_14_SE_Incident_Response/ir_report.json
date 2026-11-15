@@ -1,0 +1,18 @@
+{
+    "incident": {
+        "type": "phishing",
+        "severity": "HIGH",
+        "user": "riya@example.test"
+    },
+    "actions": [
+        "SIMULATE: Lock user account",
+        "SIMULATE: Revoke active sessions",
+        "Notify SOC team",
+        "Preserve email logs",
+        "SIMULATE: Quarantine suspicious email",
+        "SIMULATE: Block sender domain",
+        "Scan attachments in sandbox"
+    ],
+    "timestamp": "2026-11-15 15:32:49.605660",
+    "status": "SIMULATED RESPONSE COMPLETED"
+}
